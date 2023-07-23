@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/msamadness4/static/css/main.f8c01a77.css",
+    "main.js": "/msamadness4/static/js/main.dddbbb90.js",
+    "static/media/img-2.jpg": "/msamadness4/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/msamadness4/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-soccer.jpg": "/msamadness4/static/media/img-soccer.49fdaab2406501a95a69.jpg",
+    "static/media/img-1.jpg": "/msamadness4/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-bball2.jpg": "/msamadness4/static/media/img-bball2.992a55c1853361f1838c.jpg",
+    "static/media/img-8.jpg": "/msamadness4/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/img-skiing.jpg": "/msamadness4/static/media/img-skiing.085c93ca7e2e2b08c305.jpg",
+    "static/media/lopresit.jpeg": "/msamadness4/static/media/lopresit.a18d0029ff9854a89b1e.jpeg",
+    "static/media/img-volleyball.jpg": "/msamadness4/static/media/img-volleyball.a6198530a7c63b261e8f.jpg",
+    "static/media/logo.png": "/msamadness4/static/media/logo.7e8f433cfaeeb3b7407b.png",
+    "index.html": "/msamadness4/index.html",
+    "main.f8c01a77.css.map": "/msamadness4/static/css/main.f8c01a77.css.map",
+    "main.dddbbb90.js.map": "/msamadness4/static/js/main.dddbbb90.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8c01a77.css",
+    "static/js/main.dddbbb90.js"
+  ]
+}
