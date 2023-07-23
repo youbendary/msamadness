@@ -35,14 +35,11 @@
   }
   
   .nav-menu {
-    display: grid;
-    grid-template-columns: repeat(4, auto);
-    grid-gap: 10px;
-    list-style: none;
-    text-align: center;
     width: 60vw;
+    display: flex;
+    align-items: center;
+    list-style: none;
     justify-content: end;
-    margin-right: 2rem;
   }
   
   .nav-item {
@@ -61,6 +58,23 @@
   .nav-links:hover {
     border-bottom: 4px solid #ff8103;
     color: #af5104;
+    transition: all 0.2s ease-out;
+  }
+  
+  .nav-links-boxed {
+    background-color: #ef7800;
+    border-radius: 5px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    height: 50%;
+  }
+  
+  .nav-links-boxed:hover {
+    opacity: 80%;
     transition: all 0.2s ease-out;
   }
   

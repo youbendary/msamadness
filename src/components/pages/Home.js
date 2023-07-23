@@ -6,7 +6,9 @@ function Home() {
   return (
     <>
       <HeroSection />
-      <Cards />
+      <section id="events">
+        <Cards />
+      </section>
       <Footer />
     </>
   );

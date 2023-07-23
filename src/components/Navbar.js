@@ -37,46 +37,39 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <Link to='/events' className='nav-links' onClick={closeMobileMenu}>
-                Events
-              </Link>
+              <a href="/#events" className='nav-links' onClick={closeMobileMenu}>Events</a>
             </li>
             <li className='nav-item'>
-              <Link
-                to='/volunteer'
+              {/* replace href with the Google form */}
+              <a
+                href='/#volunteer'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
                 Volunteer
-              </Link>
+              </a>
             </li>
             <li className='nav-item'>
-              <Link
-                to='/about-us'
+              <a
+                href='/#about-us'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
                 About Us
-              </Link>
+              </a>
             </li>
 
             <li>
-              <Link
-                to='/sign-up'
-                className='nav-links-mobile'
+              {/* replace href with the Google form */}
+              <a
+                href='/#sign-up'
+                className='nav-links-boxed'
                 onClick={closeMobileMenu}
               >
                 Sign Up
-              </Link>
+              </a>
             </li>
           </ul>
-          {button && <Button 
-          className='signup'
-          buttonStyle='btn--primary'
-          buttonSize='btn--medium'
-          
-          // buttonStyle='btn--primary'
-          >SIGN UP</Button>}
         </div>
       </nav>
     </>
