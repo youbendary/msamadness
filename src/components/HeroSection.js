@@ -9,9 +9,9 @@ function HeroSection() {
     <div className='hero-container'>
       {/* <video src={vid} autoPlay loop muted /> */}
       <h1>MSA MADNESS</h1>
-      <p>BOSTON MUSLIM'S NEWEST ORGANIZATION</p>
+      <p>Uniting college Muslims through charity.</p>
       <div className='hero-btns'>
-        <Button
+        {/* <Button
           className='btns'
           buttonStyle='btn--outline'
           buttonSize='btn--large'
@@ -25,7 +25,7 @@ function HeroSection() {
           // onClick={console.log('hey')}
         >
           WATCH TRAILER <i className='far fa-play-circle' />
-        </Button>
+        </Button> */}
       </div>
     </div>
   );
