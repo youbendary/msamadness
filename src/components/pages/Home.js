@@ -5,6 +5,7 @@ import Footer from '../Footer';
 function Home() {
   return (
     <>
+      <section id="nav-bar" />
       <HeroSection />
       <section id="events">
         <Cards />

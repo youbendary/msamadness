@@ -28,10 +28,10 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <a href='/#nav-bar' className='navbar-logo' onClick={closeMobileMenu}>
+            <img className='logo-img' src={require('../assets/images/logo.png')} />
             MSA MADNESS
-            <i class='fab fa-typo3' />
-          </Link>
+          </a>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
           </div>
