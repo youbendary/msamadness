@@ -10,7 +10,9 @@ function Home() {
       <section id="events">
         <Cards />
       </section>
-      <Footer />
+      <section id="footer">
+        <Footer />
+      </section>
     </>
   );
 }

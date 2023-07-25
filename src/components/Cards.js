@@ -14,13 +14,16 @@ function Cards() {
                         src={require('../assets/images/img-bball2.jpg')}
                         text="Brother's Community Basketball Tournament"
                         label='Fall'
-                        path='/volunteer'
+                        // google form
+                        target='_blank'
+                        path='http://google.com'
                     />
                     <CardItem 
                         src={require('../assets/images/img-volleyball.jpg')}
                         text="Brother's and Sister's Volleyball Tournaments!"
                         label='Fall'
-                        path='/events'
+                        // google form
+                        path='http://google.com'
                     />
                 </ul>
                 <ul className='cards__items'>
@@ -28,13 +31,15 @@ function Cards() {
                         src={require('../assets/images/img-soccer.jpg')}
                         text="Brother's Inter-MSA Soccer Game!"
                         label='Fall'
-                        path='/about-us'
+                        target='_blank'                                            
+                        path='http://google.com'
                     />
                     <CardItem 
                         src={require('../assets/images/img-skiing.jpg')}
                         text='Community Ski Retreat!'
                         label='Winter'
-                        path='/sign-up'
+                        target='_blank'                                            
+                        path='http://google.com'
                     />
                 </ul>
             </div>

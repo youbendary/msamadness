@@ -7,13 +7,16 @@ function Footer() {
     return (
       <div className='footer-container'>
         <section className='footer-subscription'>
-          <p className='footer-subscription-heading'>
-            Join the MSA MADNESS newsletter!
+          <p className='footer-about'>
+          "Assalamu Alaikum! We are a Muslim college organization driven by compassion and unity. 
+          Our mission is to raise funds for charity through exciting sport-related events. 
+          Join us in making a positive impact by supporting our cause. 
+          Together, we can create a brighter future for those in need. Jazakum Allahu Khairan!"
           </p>
-          <p className='footer-subscription-text'>
-            You can unsubscribe at any time.
+          <p className='footer-authors'>
+            - Hamza Elousrouti and Omar Shoura
           </p>
-          <div className='input-areas'>
+          {/* <div className='input-areas'>
             <form>
               <input
                 className='footer-input'
@@ -28,7 +31,7 @@ function Footer() {
               >
                 Subscribe
                 
-                </Button>
+                </Button> */}
               {/* <Button
           className='btns'
           buttonStyle='btn--outline'
@@ -36,8 +39,8 @@ function Footer() {
         >
           GET STARTED
         </Button> */}
-            </form>
-          </div>
+            {/* </form>
+          </div> */}
         </section>
         {/* <div class='footer-links'>
           <div className='footer-link-wrapper'>
@@ -82,7 +85,7 @@ function Footer() {
             <div class='footer-logo'>
               <Link to='/' className='social-logo'>
                 MSA MADNESS
-                <i class='fab fa-typo3' />
+                <img className='logo-img' src={require('../assets/images/logo.png')} />
               </Link>
             </div>
             <small class='website-rights'>MSA MADNESS © 2023</small>

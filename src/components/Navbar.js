@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { Button } from './Button';
-import { Link } from 'react-router-dom';
+// import { Button } from './Button';
+// import { Link } from 'react-router-dom';
 import './Navbar.css';
 
 function Navbar() {
@@ -28,7 +28,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <a href='/#nav-bar' className='navbar-logo' onClick={closeMobileMenu}>
+          <a href='/' className='navbar-logo' onClick={closeMobileMenu}>
             <img className='logo-img' src={require('../assets/images/logo.png')} />
             MSA MADNESS
           </a>
@@ -40,29 +40,25 @@ function Navbar() {
               <a href="/#events" className='nav-links' onClick={closeMobileMenu}>Events</a>
             </li>
             <li className='nav-item'>
+              <a href="/#footer" className='nav-links' onClick={closeMobileMenu}>About Us</a>
+            </li>
+
+            <li className='nav-item'>
               {/* replace href with the Google form */}
               <a
-                href='/#volunteer'
+                target='_blank'
+                href='https://docs.google.com/forms/d/1HkX2fHCA-1bBKkBt73SEnilDfLvt-RIaSqDb1Ep_XIE/viewform?ts=64053418&edit_requested=true&fbclid=PAAabSu2bbcq0Z5MzyGRgz8L9X2-bCD55VYE9a3szWyVnMrVAVPSX5gRHRP-A'
                 className='nav-links'
                 onClick={closeMobileMenu}
               >
                 Volunteer
               </a>
             </li>
-            <li className='nav-item'>
-              <a
-                href='/#about-us'
-                className='nav-links'
-                onClick={closeMobileMenu}
-              >
-                About Us
-              </a>
-            </li>
-
             <li>
               {/* replace href with the Google form */}
               <a
-                href='/#sign-up'
+                target='_blank'
+                href='http://google.com'
                 className='nav-links-boxed'
                 onClick={closeMobileMenu}
               >
