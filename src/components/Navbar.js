@@ -28,7 +28,7 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
-          <a href='/' className='navbar-logo' onClick={closeMobileMenu}>
+          <a href='/msamadness4#home' className='navbar-logo' onClick={closeMobileMenu}>
             <img className='logo-img' src={require('../assets/images/logo.png')} />
             MSA MADNESS
           </a>
@@ -37,10 +37,10 @@ function Navbar() {
           </div>
           <ul className={click ? 'nav-menu active' : 'nav-menu'}>
             <li className='nav-item'>
-              <a href="/#events" className='nav-links' onClick={closeMobileMenu}>Events</a>
+              <a href="/msamadness4#events" className='nav-links' onClick={closeMobileMenu}>Events</a>
             </li>
             <li className='nav-item'>
-              <a href="/#footer" className='nav-links' onClick={closeMobileMenu}>About Us</a>
+              <a href="/msamadness4#footer" className='nav-links' onClick={closeMobileMenu}>About Us</a>
             </li>
 
             <li className='nav-item'>
