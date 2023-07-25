@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/msamadness4/static/css/main.f8c01a77.css",
-    "main.js": "/msamadness4/static/js/main.d3fb1584.js",
+    "main.css": "/msamadness4/static/css/main.541e631b.css",
+    "main.js": "/msamadness4/static/js/main.2bc8d538.js",
     "static/media/img-2.jpg": "/msamadness4/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/msamadness4/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-soccer.jpg": "/msamadness4/static/media/img-soccer.49fdaab2406501a95a69.jpg",
@@ -13,11 +13,11 @@
     "static/media/img-volleyball.jpg": "/msamadness4/static/media/img-volleyball.a6198530a7c63b261e8f.jpg",
     "static/media/logo.png": "/msamadness4/static/media/logo.7e8f433cfaeeb3b7407b.png",
     "index.html": "/msamadness4/index.html",
-    "main.f8c01a77.css.map": "/msamadness4/static/css/main.f8c01a77.css.map",
-    "main.d3fb1584.js.map": "/msamadness4/static/js/main.d3fb1584.js.map"
+    "main.541e631b.css.map": "/msamadness4/static/css/main.541e631b.css.map",
+    "main.2bc8d538.js.map": "/msamadness4/static/js/main.2bc8d538.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8c01a77.css",
-    "static/js/main.d3fb1584.js"
+    "static/css/main.541e631b.css",
+    "static/js/main.2bc8d538.js"
   ]
 }
