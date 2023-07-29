@@ -15,7 +15,6 @@ function Cards() {
                         text="Brother's Community Basketball Tournament"
                         label='Fall'
                         // google form
-                        target='_blank'
                         path='http://google.com'
                     />
                     <CardItem 
@@ -31,14 +30,12 @@ function Cards() {
                         src={require('../assets/images/img-soccer.jpg')}
                         text="Brother's Inter-MSA Soccer Game!"
                         label='Fall'
-                        target='_blank'                                            
                         path='http://google.com'
                     />
                     <CardItem 
                         src={require('../assets/images/img-skiing.jpg')}
                         text='Community Ski Retreat!'
                         label='Winter'
-                        target='_blank'                                            
                         path='http://google.com'
                     />
                 </ul>
