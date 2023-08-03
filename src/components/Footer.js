@@ -14,7 +14,7 @@ function Footer() {
           Together, we can create a brighter future for those in need. Jazakum Allahu Khairan!"
           </p>
           <p className='footer-authors'>
-            - Hamza Elousrouti and Omar Shoura
+            - MSA Madness Board
           </p>
           {/* <div className='input-areas'>
             <form>
