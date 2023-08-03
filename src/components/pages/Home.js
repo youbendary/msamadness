@@ -1,18 +1,18 @@
 import HeroSection from '../HeroSection';
 import Cards from '../Cards';
 import Footer from '../Footer';
+import Navbar from '../Navbar';
 
 function Home() {
   return (
     <>
-      <section id="home" />
+      <Navbar />
+      <span id="home" />
       <HeroSection />
-      <section id="events">
-        <Cards />
-      </section>
-      <section id="footer">
-        <Footer />
-      </section>
+      <span id="events" />
+      <Cards />
+      <span id="footer" />
+      <Footer /> 
     </>
   );
 }

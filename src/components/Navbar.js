@@ -60,7 +60,7 @@ function Navbar() {
               {/* replace href with the Google form */}
               <a
                 target='_blank'
-                href='http://google.com'
+                href='https://docs.google.com/forms/d/1HkX2fHCA-1bBKkBt73SEnilDfLvt-RIaSqDb1Ep_XIE/viewform?ts=64053418&edit_requested=true&fbclid=PAAabSu2bbcq0Z5MzyGRgz8L9X2-bCD55VYE9a3szWyVnMrVAVPSX5gRHRP-A'
                 className='nav-links-boxed'
                 onClick={closeMobileMenu}
               >

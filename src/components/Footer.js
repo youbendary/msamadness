@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from './Button';
 import './Footer.css';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 function Footer() {
     return (
@@ -82,31 +82,32 @@ function Footer() {
         </div> */}
         <section class='social-media'>
           <div class='social-media-wrap'>
+            <small class='website-rights'>MSA MADNESS © 2023</small>
             <div class='footer-logo'>
-              <Link to='/' className='social-logo'>
+              <a to='/' className='social-logo'>
                 MSA MADNESS
                 <img className='logo-img' src={require('../assets/images/logo.png')} />
-              </Link>
+              </a>
             </div>
-            <small class='website-rights'>MSA MADNESS © 2023</small>
+            {/* <div class='right-side'> */}
             <div class='social-icons'>
-              <Link
+              {/* <Link
                 class='social-icon-link facebook'
                 to='/'
                 target='_blank'
                 aria-label='Facebook'
               >
                 <i class='fab fa-facebook-f' />
-              </Link>
-              <Link
+              </Link> */}
+              <a
                 class='social-icon-link instagram'
-                to='/https://instagram.com/msamadness?igshid=NTc4MTIwNjQ2YQ=='
+                href='https://instagram.com/msamadness?igshid=NTc4MTIwNjQ2YQ=='
                 target='_blank'
                 aria-label='Instagram'
               >
                 <i class='fab fa-instagram' />
-              </Link>
-              <Link
+              </a>
+              {/* <Link
                 class='social-icon-link youtube'
                 to='/'
                 target='_blank'
@@ -129,8 +130,9 @@ function Footer() {
                 aria-label='LinkedIn'
               >
                 <i class='fab fa-linkedin' />
-              </Link>
+              </Link> */}
             </div>
+            {/* </div> */}
           </div>
         </section>
       </div>

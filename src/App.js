@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from './components/Navbar';
 import { HashRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import Home from './components/pages/Home';
@@ -12,7 +11,8 @@ import SignUp from './components/pages/SignUp';
 function App() {
   return (
     <>
-    <HashRouter>
+    <Home />
+    {/* <HashRouter>
       <Navbar />
       <Routes>
       <Route exact path="/" element={<Home />}/>
@@ -21,7 +21,7 @@ function App() {
       <Route exact path="/volunteer" element={<Volunteer />}/>
       <Route exact path="/sign-up" element={<SignUp />}/>
       </Routes>
-    </HashRouter>
+    </HashRouter> */}
     </>
   );
 }
