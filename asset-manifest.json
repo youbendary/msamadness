@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4e227562.css",
+    "main.js": "/static/js/main.f1c37a67.js",
+    "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
+    "static/media/img-soccer.jpg": "/static/media/img-soccer.49fdaab2406501a95a69.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-bball2.jpg": "/static/media/img-bball2.992a55c1853361f1838c.jpg",
+    "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "static/media/img-skiing.jpg": "/static/media/img-skiing.085c93ca7e2e2b08c305.jpg",
+    "static/media/lopresit.jpeg": "/static/media/lopresit.a18d0029ff9854a89b1e.jpeg",
+    "static/media/img-volleyball.jpg": "/static/media/img-volleyball.a6198530a7c63b261e8f.jpg",
+    "static/media/logo.png": "/static/media/logo.7e8f433cfaeeb3b7407b.png",
+    "index.html": "/index.html",
+    "main.4e227562.css.map": "/static/css/main.4e227562.css.map",
+    "main.f1c37a67.js.map": "/static/js/main.f1c37a67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e227562.css",
+    "static/js/main.f1c37a67.js"
+  ]
+}
