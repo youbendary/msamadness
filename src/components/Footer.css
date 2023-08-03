@@ -177,7 +177,7 @@
       flex-direction: column;
     }
   }
-  
+   
   @media screen and (max-width: 768px) {
     .social-logo {
       margin-left: 10px
@@ -185,5 +185,9 @@
   
     .social-icons {
       margin-right: 0px;
+    }
+  
+    .social-icons {
+      justify-content: center;
     }
   }
