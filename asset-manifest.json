@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.40c00c79.css",
-    "main.js": "/static/js/main.e6089b9c.js",
+    "main.css": "/static/css/main.6dbf5b0a.css",
+    "main.js": "/static/js/main.44693e65.js",
     "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-soccer.jpg": "/static/media/img-soccer.49fdaab2406501a95a69.jpg",
@@ -10,14 +10,14 @@
     "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/img-skiing.jpg": "/static/media/img-skiing.085c93ca7e2e2b08c305.jpg",
     "static/media/img-volleyball.jpg": "/static/media/img-volleyball.a6198530a7c63b261e8f.jpg",
-    "static/media/falltourney.jpeg": "/static/media/falltourney.4f964b456bab82f18f9f.jpeg",
     "static/media/logo.png": "/static/media/logo.7e8f433cfaeeb3b7407b.png",
+    "static/media/falltourney.jpg": "/static/media/falltourney.d85d2cefd4007662d101.jpg",
     "index.html": "/index.html",
-    "main.40c00c79.css.map": "/static/css/main.40c00c79.css.map",
-    "main.e6089b9c.js.map": "/static/js/main.e6089b9c.js.map"
+    "main.6dbf5b0a.css.map": "/static/css/main.6dbf5b0a.css.map",
+    "main.44693e65.js.map": "/static/js/main.44693e65.js.map"
   },
   "entrypoints": [
-    "static/css/main.40c00c79.css",
-    "static/js/main.e6089b9c.js"
+    "static/css/main.6dbf5b0a.css",
+    "static/js/main.44693e65.js"
   ]
 }
