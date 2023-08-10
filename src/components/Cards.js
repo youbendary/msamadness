@@ -11,7 +11,7 @@ function Cards() {
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem 
-                        src={require('../assets/images/img-bball2.jpg')}
+                        src={require('../assets/images/card-falltourney.jpg')}
                         text="Brother's Community Basketball Tournament"
                         label='Fall'
                         // google form
