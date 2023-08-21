@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dbf5b0a.css",
-    "main.js": "/static/js/main.b135d62a.js",
+    "main.css": "/static/css/main.04a41f38.css",
+    "main.js": "/static/js/main.7bb55640.js",
     "static/media/img-2.jpg": "/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
     "static/media/img-4.jpg": "/static/media/img-4.a31875b76d39f6458a6e.jpg",
     "static/media/img-soccer.jpg": "/static/media/img-soccer.49fdaab2406501a95a69.jpg",
     "static/media/img-1.jpg": "/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/bg12.png": "/static/media/bg12.90b9fa17bfea754fad5b.png",
+    "static/media/bgmid2.png": "/static/media/bgmid2.a17eca913a24adfa0b86.png",
+    "static/media/bgm11.png": "/static/media/bgm11.269685384530244c432c.png",
     "static/media/img-8.jpg": "/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/img-skiing.jpg": "/static/media/img-skiing.085c93ca7e2e2b08c305.jpg",
     "static/media/img-volleyball.jpg": "/static/media/img-volleyball.a6198530a7c63b261e8f.jpg",
     "static/media/logo.png": "/static/media/logo.7e8f433cfaeeb3b7407b.png",
     "static/media/card-falltourney.jpg": "/static/media/card-falltourney.9d1b319cfaac1677f1d9.jpg",
-    "static/media/falltourney.jpg": "/static/media/falltourney.d85d2cefd4007662d101.jpg",
     "index.html": "/index.html",
-    "main.6dbf5b0a.css.map": "/static/css/main.6dbf5b0a.css.map",
-    "main.b135d62a.js.map": "/static/js/main.b135d62a.js.map"
+    "main.04a41f38.css.map": "/static/css/main.04a41f38.css.map",
+    "main.7bb55640.js.map": "/static/js/main.7bb55640.js.map"
   },
   "entrypoints": [
-    "static/css/main.6dbf5b0a.css",
-    "static/js/main.b135d62a.js"
+    "static/css/main.04a41f38.css",
+    "static/js/main.7bb55640.js"
   ]
 }
