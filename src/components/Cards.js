@@ -12,7 +12,7 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem 
                         src={require('../assets/images/card-falltourney.jpg')}
-                        text="Brother's Community Basketball Tournament"
+                        text="September 16: Brother's Community Basketball Tournament"
                         label='Fall'
                         // google form
                         path='https://docs.google.com/forms/d/1HkX2fHCA-1bBKkBt73SEnilDfLvt-RIaSqDb1Ep_XIE/viewform?ts=64053418&edit_requested=true&fbclid=PAAabSu2bbcq0Z5MzyGRgz8L9X2-bCD55VYE9a3szWyVnMrVAVPSX5gRHRP-A'
