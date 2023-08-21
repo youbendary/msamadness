@@ -58,9 +58,9 @@ video {
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 500px) {
   .hero-container {
-    background: url('../assets/images/bgm11.png') center center/cover no-repeat;
+    background: url('../assets/images/bgm14.png') center center/cover no-repeat;
   }
   .hero-container > h1 {
     font-size: 50px;
