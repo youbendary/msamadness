@@ -31,7 +31,7 @@ function Navbar() {
       <nav className='navbar'>
         <div className='navbar-container'>
           <a href={`/${uri}#home`} className='navbar-logo' onClick={closeMobileMenu}>
-            <img className='logo-img' src={require('../assets/images/logo.png')} />
+            <img className='logo-img' src={require('../images/logo.png')} />
             MSA MADNESS
           </a>
           <div className='menu-icon' onClick={handleClick}>

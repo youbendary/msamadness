@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-  background: url('../assets/images/bg12.png') center center/cover no-repeat;
+  background: url('../images/falltourney.png') center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
@@ -51,20 +51,19 @@ video {
 
 @media screen and (max-width: 960px) {
   .hero-container {
-    background: url('../assets/images/bgmid2.png') center center/cover no-repeat;
+    background: url('../images/bg-mid.png') center center/cover no-repeat;
   }
   .hero-container > h1 {
     font-size: 70px;
   }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
   .hero-container {
-    background: url('../assets/images/bgm15.png') center center/cover no-repeat;
+    background: url('../images/bg-mobile.png') center center/cover no-repeat;
   }
   .hero-container > h1 {
-    font-size: 50px;
-    margin-top: 175px;
+    font-size: 70px;
   }
 
   .hero-container > p {

@@ -86,7 +86,7 @@ function Footer() {
             <div class='footer-logo'>
               <a to='/' className='social-logo'>
                 MSA MADNESS
-                <img className='logo-img' src={require('../assets/images/logo.png')} />
+                <img className='logo-img' src={require('../images/logo.png')} />
               </a>
             </div>
             {/* <div class='right-side'> */}
